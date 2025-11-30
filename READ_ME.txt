@@ -1,0 +1,1 @@
+﻿In the “Additional Experiments” folder you will find other solutions we tried to implement, i.e. FeedForward, implementation on Qiskit.
